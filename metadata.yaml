@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33106
     wikipedia: http://en.wikipedia.org/wiki/William_Wirt_%28Attorney_General%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28053#Celebration-in-Baltimore-of-the-Triumph-of-Liberty-in-France
 gutenberg_issued: '2009-02-12'
 gutenberg_type: Text
 identifiers:
