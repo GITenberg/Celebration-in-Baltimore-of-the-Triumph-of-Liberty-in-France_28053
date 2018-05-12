@@ -1,0 +1,28 @@
+_repo: Celebration-in-Baltimore-of-the-Triumph-of-Liberty-in-France_28053
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wirt, William
+    birthdate: 1772
+    deathdate: 1834
+    gutenberg_agent_id: '33106'
+    url: http://www.gutenberg.org/2009/agents/33106
+    wikipedia: http://en.wikipedia.org/wiki/William_Wirt_%28Attorney_General%29
+description: ''
+gutenberg_issued: '2009-02-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28053'
+  lccn: '14015295'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- History -- July Revolution, 1830'
+- !lcc 'DC'
+title: Celebration in Baltimore of the Triumph of Liberty in France
+url: http://www.gutenberg.org/ebooks/28053
